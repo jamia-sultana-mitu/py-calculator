@@ -3,6 +3,8 @@
 A simple GUI calculator built using **Python** and **PyQt5**.
 This project run a Python desktop application inside a **virtual environment (venv)**.
 
+![PyQt5 Calculator](py-calculator-image.png)
+
 ---
 
 ## Features
